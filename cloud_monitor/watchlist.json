@@ -10,6 +10,18 @@
     "TEKNOSA",
     "MEDIAMARKT"
   ],
-  "products": [],
+  "products": [
+    {
+      "id": "p_523c9fcf",
+      "name": "Spigen şarj aleti",
+      "targetDropPercent": 15,
+      "offers": [
+        {
+          "site": "OTHER",
+          "url": "https:\/\/app.hb.biz\/FFb7R7BwTXRj"
+        }
+      ]
+    }
+  ],
   "categories": []
 }
