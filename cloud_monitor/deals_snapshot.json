@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795467445295,
+  "updatedAt": 1795467746581,
   "products": [
     {
       "id": "p_523c9fcf",
@@ -23,9 +23,9 @@
       ]
     },
     {
-      "id": "p_966e3924",
+      "id": "p_5b262716",
       "name": "Spigen Şarj Aleti",
-      "targetDropPercent": 15,
+      "targetDropPercent": 1,
       "offers": [
         {
           "site": "HEPSIBURADA",
@@ -51,9 +51,15 @@
       "site": "AMAZON",
       "url": "https://www.amazon.com.tr/gp/goldbox",
       "minDropPercent": 20,
-      "scannedCount": 0,
-      "status": "0 ürün tarandı (HTTP)",
-      "knownPrices": {}
+      "scannedCount": 5,
+      "status": "5 ürün tarandı (HTTP)",
+      "knownPrices": {
+        "https://www.amazon.com.tr/blackfriday/ref=TRBF26?_encoding=UTF8&bubble-id=TOP100-bubble&pd_rd_w=ENi6x&content-id=amzn1.sym.f46b7f4f-3015-4a20-867c-6182a0f7378a&pf_rd_p=f46b7f4f-3015-4a20-867c-6182a0f7378a&pf_rd_r=GA06SZ0YFWC5KK1KG634&pd_rd_wg=SaE6g&pd_rd_r=ec343e57-6fc5-4350-8844-87e0cb9a3fbf#dealsGridLinkAnchor": 100.0,
+        "https://www.amazon.com.tr/gp/goldbox": 26.0,
+        "https://www.amazon.com.tr/LEGO-Icons-Y%C3%BCz%C3%BCklerin-Efendisi-Tirith/dp/B07BT89GTP?pd_rd_w=IOnnZ&content-id=amzn1.sym.9d721d30-e88f-4683-aa1a-11cfe9bddc52&pf_rd_p=9d721d30-e88f-4683-aa1a-11cfe9bddc52&pf_rd_r=GA06SZ0YFWC5KK1KG634&pd_rd_wg=SaE6g&pd_rd_r=ec343e57-6fc5-4350-8844-87e0cb9a3fbf&pd_rd_i=B07BT89GTP&ref_=dossier_default_ref_B07BT89GTP": 77.0,
+        "https://www.amazon.com.tr/Dyson-Piston-Animal-Kablosuz-S%C3%BCp%C3%BCrge/dp/B0FZWJ5MFS?pd_rd_w=IOnnZ&content-id=amzn1.sym.9d721d30-e88f-4683-aa1a-11cfe9bddc52&pf_rd_p=9d721d30-e88f-4683-aa1a-11cfe9bddc52&pf_rd_r=GA06SZ0YFWC5KK1KG634&pd_rd_wg=SaE6g&pd_rd_r=ec343e57-6fc5-4350-8844-87e0cb9a3fbf&pd_rd_i=B0FZWJ5MFS&ref_=dossier_default_ref_B0FZWJ5MFS": 54.0,
+        "https://www.amazon.com.tr/Braun-i%C2%B7expert-%C3%9Ccretsiz-Uygulama-PL7253/dp/B0D1YHBL8P?pd_rd_w=IOnnZ&content-id=amzn1.sym.9d721d30-e88f-4683-aa1a-11cfe9bddc52&pf_rd_p=9d721d30-e88f-4683-aa1a-11cfe9bddc52&pf_rd_r=GA06SZ0YFWC5KK1KG634&pd_rd_wg=SaE6g&pd_rd_r=ec343e57-6fc5-4350-8844-87e0cb9a3fbf&pd_rd_i=B0D1YHBL8P&ref_=dossier_default_ref_B0D1YHBL8P": 725.0
+      }
     },
     {
       "id": "auto_hepsiburada",
