@@ -1,6 +1,109 @@
 {
-  "updatedAt": 0,
-  "products": [],
-  "categories": [],
+  "updatedAt": 1795467286042,
+  "products": [
+    {
+      "id": "p_523c9fcf",
+      "name": "Spigen şarj aleti",
+      "targetDropPercent": 15,
+      "offers": [
+        {
+          "site": "OTHER",
+          "url": "https://app.hb.biz/FFb7R7BwTXRj",
+          "title": "",
+          "brand": "",
+          "gtin": "",
+          "modelCode": "",
+          "price": null,
+          "previousPrice": null,
+          "dropPercent": 0.0,
+          "status": "Okunamadı (Erisilemedi / Bot korumasi)",
+          "matchStatus": "UNCHECKED",
+          "matchScore": 0
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "auto_amazon",
+      "name": "Amazon TR Günün Fırsatları",
+      "site": "AMAZON",
+      "url": "https://www.amazon.com.tr/gp/goldbox",
+      "minDropPercent": 20,
+      "scannedCount": 0,
+      "status": "0 ürün tarandı (HTTP)",
+      "knownPrices": {}
+    },
+    {
+      "id": "auto_hepsiburada",
+      "name": "Hepsiburada Süper Fiyatlar",
+      "site": "HEPSIBURADA",
+      "url": "https://www.hepsiburada.com/dv/super-fiyat-super-teklif",
+      "minDropPercent": 20,
+      "scannedCount": 0,
+      "status": "0 ürün tarandı (Chromium)",
+      "knownPrices": {}
+    },
+    {
+      "id": "auto_n11",
+      "name": "N11 En İyi Fiyatlı Ürünler",
+      "site": "N11",
+      "url": "https://www.n11.com/kampanyalar/akakce-garantili-en-iyi-fiyatli-urunler",
+      "minDropPercent": 20,
+      "scannedCount": 0,
+      "status": "0 ürün tarandı (Chromium)",
+      "knownPrices": {}
+    },
+    {
+      "id": "auto_trendyol",
+      "name": "Trendyol Ev & Yaşam Fırsatları",
+      "site": "TRENDYOL",
+      "url": "https://www.trendyol.com/butik/liste/12/ev-yasam",
+      "minDropPercent": 20,
+      "scannedCount": 0,
+      "status": "0 ürün tarandı (HTTP)",
+      "knownPrices": {}
+    },
+    {
+      "id": "auto_vatan",
+      "name": "Vatan Bilgisayar TV & Telefon",
+      "site": "VATAN",
+      "url": "https://www.vatanbilgisayar.com/televizyon/",
+      "minDropPercent": 20,
+      "scannedCount": 0,
+      "status": "0 ürün tarandı (Chromium)",
+      "knownPrices": {}
+    },
+    {
+      "id": "auto_teknosa",
+      "name": "Teknosa Kampanyalar",
+      "site": "TEKNOSA",
+      "url": "https://www.teknosa.com/kampanyalar/",
+      "minDropPercent": 20,
+      "scannedCount": 0,
+      "status": "0 ürün tarandı (Chromium)",
+      "knownPrices": {}
+    },
+    {
+      "id": "auto_mediamarkt",
+      "name": "MediaMarkt Kampanyalar",
+      "site": "MEDIAMARKT",
+      "url": "https://www.mediamarkt.com.tr/tr/campaign/kampanyalar",
+      "minDropPercent": 20,
+      "scannedCount": 9,
+      "status": "9 ürün tarandı (HTTP)",
+      "knownPrices": {
+        "https://www.mediamarkt.com.tr/tr/campaign/kampanyalar": 40.0,
+        "https://www.mediamarkt.com.tr/tr/campaign/avantajli-urunler": 2000.0,
+        "https://www.mediamarkt.com.tr/tr/promo-list/PFF_27E_OFC_365_271026": 40.0,
+        "https://www.mediamarkt.com.tr/tr/promo-list/PFF_19K_IPD_AIR_191126": 1999.0,
+        "https://www.mediamarkt.com.tr/tr/category/isitma-sogutma-465751.html": 120.0,
+        "https://www.mediamarkt.com.tr/tr/category/9000-btu-klima-873050.html": 900.0,
+        "https://www.mediamarkt.com.tr/tr/category/12000-btu-klima-873049.html": 120.0,
+        "https://www.mediamarkt.com.tr/tr/category/18000-btu-klima-898013.html": 180.0,
+        "https://www.mediamarkt.com.tr/tr/category/24000-btu-klima-898015.html": 240.0
+      }
+    }
+  ],
   "bigDeals": []
 }
