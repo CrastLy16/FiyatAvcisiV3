@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795467336160,
+  "updatedAt": 1795467445295,
   "products": [
     {
       "id": "p_523c9fcf",
@@ -21,9 +21,40 @@
           "matchScore": 0
         }
       ]
+    },
+    {
+      "id": "p_966e3924",
+      "name": "Spigen Şarj Aleti",
+      "targetDropPercent": 15,
+      "offers": [
+        {
+          "site": "HEPSIBURADA",
+          "url": "https://www.hepsiburada.com/spigen-45w-usb-c-hizli-sarj-aleti-orgu-kablo-pps-2-0-super-hizli-sarj-gan-pro-isi-dusurucu-guc-adaptoru-akim-koruma-iphone-android-ipad-macbook-type-c-white-ach02589-p-HBCV00002YY8JU?adsUniqueId=431745d0-7bee-4ea3-8556-1ab643be93b6&isPromoted=true&magaza=Hepsiburada&anonymousId=0198c6f9-0251-7f68-a4b0-263f4dfb163e",
+          "title": "Hepsiburada | Güvenlik",
+          "brand": "",
+          "gtin": "",
+          "modelCode": "",
+          "price": null,
+          "previousPrice": null,
+          "dropPercent": 0.0,
+          "status": "Okunamadı (Chromium)",
+          "matchStatus": "REFERENCE",
+          "matchScore": 100
+        }
+      ]
     }
   ],
   "categories": [
+    {
+      "id": "auto_amazon",
+      "name": "Amazon TR Günün Fırsatları",
+      "site": "AMAZON",
+      "url": "https://www.amazon.com.tr/gp/goldbox",
+      "minDropPercent": 20,
+      "scannedCount": 0,
+      "status": "0 ürün tarandı (HTTP)",
+      "knownPrices": {}
+    },
     {
       "id": "auto_hepsiburada",
       "name": "Hepsiburada Süper Fiyatlar",
