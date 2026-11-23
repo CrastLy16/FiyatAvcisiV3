@@ -1,0 +1,33 @@
+name: Bulut Fiyat & Firsat Tarayicisi (30 dk)
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  push:
+    branches: [ main, master ]
+    paths:
+      - 'cloud_monitor/watchlist.json'
+      - 'cloud_monitor/check_prices.py'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cloud-scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: |
+          pip install requests beautifulsoup4 playwright
+          playwright install chromium
+      - run: python cloud_monitor/check_prices.py
+      - run: |
+          git config user.name "FiyatAvcisi Bulut Bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add cloud_monitor/deals_snapshot.json
+          git diff --staged --quiet || git commit -m "Bulut fiyat ve firsat taramasi guncellendi"
+          git push
