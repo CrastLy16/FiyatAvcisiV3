@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795467286042,
+  "updatedAt": 1795467336160,
   "products": [
     {
       "id": "p_523c9fcf",
@@ -24,16 +24,6 @@
     }
   ],
   "categories": [
-    {
-      "id": "auto_amazon",
-      "name": "Amazon TR Günün Fırsatları",
-      "site": "AMAZON",
-      "url": "https://www.amazon.com.tr/gp/goldbox",
-      "minDropPercent": 20,
-      "scannedCount": 0,
-      "status": "0 ürün tarandı (HTTP)",
-      "knownPrices": {}
-    },
     {
       "id": "auto_hepsiburada",
       "name": "Hepsiburada Süper Fiyatlar",
