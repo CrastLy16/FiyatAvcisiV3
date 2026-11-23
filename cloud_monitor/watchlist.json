@@ -1,0 +1,15 @@
+{
+  "globalMinDropPercent": 20,
+  "scanGeneralDeals": true,
+  "enabledSites": [
+    "AMAZON",
+    "HEPSIBURADA",
+    "N11",
+    "TRENDYOL",
+    "VATAN",
+    "TEKNOSA",
+    "MEDIAMARKT"
+  ],
+  "products": [],
+  "categories": []
+}
