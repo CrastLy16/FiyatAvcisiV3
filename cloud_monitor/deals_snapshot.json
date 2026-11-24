@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795560289685,
+  "updatedAt": 1795563473615,
   "products": [
     {
       "id": "p_5b262716",
@@ -86,8 +86,8 @@
       "site": "TEKNOSA",
       "url": "https://www.teknosa.com/kampanyalar/",
       "minDropPercent": 20,
-      "scannedCount": 3,
-      "status": "3 ürün tarandı (Chromium)",
+      "scannedCount": 0,
+      "status": "0 ürün tarandı (Chromium)",
       "knownPrices": {
         "https://www.teknosa.com/samsung-galaxy-s26-5g-c-5935": 26.0,
         "https://www.teknosa.com/samsung-galaxy-s25-c-5432": 25.0,
