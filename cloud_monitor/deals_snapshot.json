@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795477085216,
+  "updatedAt": 1795480792774,
   "products": [
     {
       "id": "p_5b262716",
@@ -86,9 +86,13 @@
       "site": "TEKNOSA",
       "url": "https://www.teknosa.com/kampanyalar/",
       "minDropPercent": 20,
-      "scannedCount": 0,
-      "status": "0 ürün tarandı (Chromium)",
-      "knownPrices": {}
+      "scannedCount": 3,
+      "status": "3 ürün tarandı (Chromium)",
+      "knownPrices": {
+        "https://www.teknosa.com/samsung-galaxy-s26-5g-c-5935": 26.0,
+        "https://www.teknosa.com/samsung-galaxy-s25-c-5432": 25.0,
+        "https://www.teknosa.com/televizyon-c-101001?s=%3Arelevance%3Aekran_boyutu_101-CLS-2100%3A65%2Bin%25C3%25A7%2B%2B": 65.0
+      }
     },
     {
       "id": "auto_mediamarkt",
