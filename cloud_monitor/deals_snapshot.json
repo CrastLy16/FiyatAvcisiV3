@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795702027412,
+  "updatedAt": 1795706808642,
   "products": [
     {
       "id": "p_5b262716",
@@ -100,8 +100,8 @@
       "site": "MEDIAMARKT",
       "url": "https://www.mediamarkt.com.tr/tr/campaign/kampanyalar",
       "minDropPercent": 20,
-      "scannedCount": 8,
-      "status": "8 ürün tarandı (HTTP)",
+      "scannedCount": 0,
+      "status": "0 ürün tarandı (Chromium)",
       "knownPrices": {
         "https://www.mediamarkt.com.tr/tr/campaign/kampanyalar": 40.0,
         "https://www.mediamarkt.com.tr/tr/campaign/avantajli-urunler": 2000.0,
